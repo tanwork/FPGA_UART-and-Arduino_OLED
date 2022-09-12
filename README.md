@@ -40,15 +40,15 @@
 
       * 循环发送数据
 
-        ![](imag\1.PNG)
+        ![](https://github.com/tanwork/FPGA_UART-and-Arduino_OLED/blob/main/imag/1.PNG)
 
       * 接收结果
 
-        ![](imag\2.PNG)
+        ![](https://github.com/tanwork/FPGA_UART-and-Arduino_OLED/blob/main/imag/2.PNG)
 
     * adc读取数据，串口助手显示数据
 
-      ![](imag\3.JPG)
+      ![](https://github.com/tanwork/FPGA_UART-and-Arduino_OLED/blob/main/imag/3.PNG)
 
       
 
