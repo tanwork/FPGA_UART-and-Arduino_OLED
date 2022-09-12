@@ -48,7 +48,7 @@
 
     * adc读取数据，串口助手显示数据
 
-      ![](https://github.com/tanwork/FPGA_UART-and-Arduino_OLED/blob/main/imag/3.PNG)
+      ![](https://github.com/tanwork/FPGA_UART-and-Arduino_OLED/blob/main/imag/3.JPG)
 
       
 
